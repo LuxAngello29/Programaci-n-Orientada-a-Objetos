@@ -1,28 +1,46 @@
 # Programacion-Orientada-a-Objetos
-class Persona:
-    def __init__(self, nombre, apellido, numero_documento, anio_nacimiento):
-        self.nombre = nombre
-        self.apellido = apellido
-        self.numero_documento = numero_documento
-        self.anio_nacimiento = anio_nacimiento
+## Código
+- Asuntos
+- Solicitudes de extracción
+- Comportamiento
+- Proyectos
 
-    def imprimir(self):
-        print(f"Nombre: {self.nombre}")
-        print(f"Apellido: {self.apellido}")
-        print(f"Número de Documento: {self.numero_documento}")
-        print(f"Año de Nacimiento: {self.anio_nacimiento}")
-        print("-" * 30)
+---
 
-def main():
-    persona1 = Persona("Ana", "Gómez", "12345678", 1995)
-    persona2 = Persona("Luis", "Martínez", "87654321", 1988)
+### 0 estrellas
+- **0** tenedores
+- **1** mirando
+- **1** Branch
+- **0** Tags
+- Actividad
 
-    print("Datos de la Persona 1:")
-    persona1.imprimir()
+---
 
-    print("Datos de la Persona 2:")
-    persona2.imprimir()
+### Repositorio público
 
-# Llamada a main (solo si ejecutamos el script directamente)
-if __name__ == "__main__":
-    main()
+| principal | ir al archivo |
+|---|---|
+|    | +    |
+|    | < > Código |
+
+---
+
+### TuUsuario
+Agregar archivos mediante carga  
+commit-id · Hace X tiempo  
+
+---
+
+### S2_Ejercicio_1_Ejercicio_resuelto...
+Agregar archivos mediante carga  
+Hace X tiempo  
+
+--- 
+
+### S2_Ejercicio_2_Ejercicio_propuesto...
+Agregar archivos mediante carga  
+Hace X tiempo  
+
+### S2_Ejercicio_3_Ejercicio_propuesto...
+Agregar archivos mediante carga  
+Hace X tiempo
